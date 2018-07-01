@@ -16,3 +16,8 @@ To run the application
 - you need to have a local server install you computer (XAMPP is the suggestion for using) or Host Server
 - set htaccess on local host or Host Server
 - Now you can run the code
+
+The members are:
+- Chatsuda Rattarasan
+- Ngoc Tran
+- Haocheng Li
